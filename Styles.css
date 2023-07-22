@@ -1,0 +1,72 @@
+body {
+    background-color: gray;
+}
+.post {
+    position: relative;
+    display: block;
+    margin: 100px 500px;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+}
+head {
+    display: flex;
+}
+.icono {
+    color: black;
+    font-size: 25px;
+    float: left;
+    margin-top: 13px;
+    margin-left: 5px;
+}
+.html {
+    padding-right: 400px;
+    margin-left: 10px;
+    float: left;
+    margin-top: 10px;
+}
+.Vertical {
+    font-size: 25px;
+    margin-left: 480px;
+    margin-top: 13px;
+    position: absolute;
+}
+.body {
+    padding-top: 20px;
+    width: 500px;
+    height: 260px;
+}
+.imagen {
+    width: 500px;
+}
+.iconobody {
+    display: flex;
+    padding: 10px;
+    font-size: 25px;
+    margin-left: 5px;
+}
+.iconobody1 {
+    padding: 5px;
+    display: flex;
+}
+.coment {
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.bookmark {
+    font-size: 25px;
+    margin-left: 175px;
+    padding-top: 3px;
+}
+.foot {
+    padding: 10px;
+    justify-content: center;
+    margin-top: 5px;
+}
+.footcoment {
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: medium;
+}
